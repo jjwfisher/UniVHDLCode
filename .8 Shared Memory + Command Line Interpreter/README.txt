@@ -1,0 +1,3 @@
+This project focused on using the MicroBlaze Processor to learn the principles of shared memory. The following project focused on creating a command line interpreter. Again, I cannot reproduce the Xilinx MicroBlaze IP here. 
+
+Lectures: https://drive.google.com/file/d/1pCcHZfgrfwe1BaND8yW953rc_bfW_aNL/view?usp=sharing https://drive.google.com/file/d/1ENdo_906W26CmJLjq7_L_MXj0b1j3lA1/view?usp=sharing(Restricted)
